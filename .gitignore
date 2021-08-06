@@ -1,0 +1,8 @@
+# JUCE
+JuceLibraryCode/
+
+## Misc Mac
+.DS_Store
+
+## Build generated
+Builds/
